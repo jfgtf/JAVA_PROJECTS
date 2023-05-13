@@ -1,0 +1,4 @@
+4242423;email1;imie1;nazwisko1;adres1;kodpocztowy1;haslo1;telefon1;
+6575575;email2;imie2;nazwisko2;adres2;kodpocztowy2;haslo2;telefon2;
+832;x@;x;x;x;x;x;x;
+9925;email10@;pawel;pawel1;adasd;dasdasd;haslo;asdasddas;

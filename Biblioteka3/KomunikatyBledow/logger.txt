@@ -1,0 +1,2 @@
+22-01-2021 11:38:07
+java.io.FileNotFoundException: E:\Biblioteka3\DataBase\DataBaseUzytkownicy.txt (The system cannot find the file specified)

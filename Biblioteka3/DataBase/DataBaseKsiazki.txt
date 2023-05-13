@@ -1,0 +1,7 @@
+3920;x;x;x;x;dostepna;
+998;21312;132321;13212;31231;dostepna;
+15109;21312;132321;13212;31231;dostepna;
+9411;21312;132321;13212;31231;dostepna;
+11086;Lalki;Bolsesław;Prus;14/01/2021;wypozyczona;
+9958;Lalka;Bolsesław;Prus;14/01/2021;dostepna;
+2366;Lalka;Bolsesław;Prus;14/01/2021;dostepna;
